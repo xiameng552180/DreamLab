@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Howdy!
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Dream Lab** mainly focuses on Human-AI Interaction, Data Visualization, and Education Technology. We aim to achieve adaptive learning/teaching with visual analytics, other emerging techniques (e.g., NLP, AR/VR), and intelligent tutoring systems authoring tools.
   
   - block: collection
     content:
