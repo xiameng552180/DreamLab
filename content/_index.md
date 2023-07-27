@@ -8,17 +8,17 @@ sections:
   - block: hero
     content:
       title: |
-        <span style="font-size: 16px;"> Howdy! </span>
+        Howdy!
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Dream Lab** focuses on Human-AI Interaction, Data Visualization, and Education Technology, aiming for adaptive education with visual analytics and emerging techniques (e.g., NLP, AR/VR) to help learners discover their dreams and unlock their potential!
+        The **Dream Lab** mainly focuses on Human-AI Interaction, Data Visualization, and Education Technology. We aim to achieve adaptive education with visual analytics, and other emerging techniques (e.g., NLP, AR/VR). We aim to help every learner to discover their dreams and unlock their fullest potential!
 
   - block: markdown
     content: 
-       title: Our values
+      title: Our Values
       text: |
         1. **So what?** We care about interesting and important research questions. The research questions should be interesting to you and also important to the world. And try to think about so what?
         2. **80% of success is just showing up.** We mean literally showing up. For example, showing up at the meetings, showing up at the group gatherings, etc. You can show up without solutions but only questions or even without questions. Whatever you have, you can show up and bring something back.
