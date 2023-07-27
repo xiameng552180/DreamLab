@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        ### Howdy!
+        <span style="font-size: 16px;"> Howdy! </span>
       image:
         filename: welcome.jpg
       text: |
