@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The **Dream Lab** mainly focuses on Human-AI Interaction, Data Visualization, and Education Technology. We aim to achieve adaptive learning/teaching with visual analytics, other emerging techniques (e.g., NLP, AR/VR), and intelligent tutoring systems authoring tools.
+        The **Dream Lab** mainly focuses on Human-AI Interaction, Data Visualization, and Education Technology. We aim to achieve adaptive education with visual analytics, and other emerging techniques (e.g., NLP, AR/VR).
 
   - block: markdown
     content: 
