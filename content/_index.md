@@ -18,10 +18,13 @@ sections:
 
   - block: markdown
     content: 
-      title: Our rules
+      title: Our Values
       text: |
-        1. Rule 1
-        2. Rule 2
+        1. Choose interesting and import research tipics and aswer so what?
+        2. %80 of success is just show up.
+        3. Fail earlier and fail faster.
+        4. Don't miss deadline.
+        5. There is no silver bullet.
   
   - block: collection
     content:
