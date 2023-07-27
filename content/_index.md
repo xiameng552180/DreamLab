@@ -7,8 +7,8 @@ type: landing
 sections:
   - block: hero
     content:
-      title: |
-        Howdy!
+      # title: |
+      #   Howdy!
       image:
         filename: welcome.jpg
       text: |
