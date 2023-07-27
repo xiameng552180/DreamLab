@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Howdy!
+        ## Howdy!
       image:
         filename: welcome.jpg
       text: |
@@ -18,7 +18,8 @@ sections:
 
   - block: markdown
     content: 
-      title: Our Values
+       title: |
+        ## Latest News
       text: |
         1. **So what?** We care about interesting and important research questions. The research questions should be interesting to you and also important to the world. And try to think about so what?
         2. **80% of success is just showing up.** We mean literally showing up. For example, showing up at the meetings, showing up at the group gatherings, etc. You can show up without solutions but only questions or even without questions. Whatever you have, you can show up and bring something back.
@@ -30,7 +31,8 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: |
+        ## Latest News
       subtitle:
       text:
       count: 5
