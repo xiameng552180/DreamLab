@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Meng Xia
-url: https://www.xiameng.org/
 
 # Full Name (for SEO)
 first_name: Meng
