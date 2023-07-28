@@ -20,7 +20,7 @@ sections:
     content: 
       title: Our Values
       text: |
-        1. **So what?** We care about interesting and important research questions. The research questions should be interesting to you and also important to the world. And try to think about so what?
+        1. **So what?** We care about interesting and important research questions. The research questions should be interesting to you and also important to the world. Try to think about so what?
         2. **80% of success is just showing up.** We mean literally showing up. For example, showing up at the meetings, showing up at the group gatherings, etc. You can show up without solutions but only questions or even without questions. Whatever you have, you can show up and bring something back.
         3. **Fail earlier and fail faster.** Life is just a learning process, and we can gain more if we fail more. The same is true for research; it is an iterative process but not the execution of a perfect plan. 
         4. **Don't miss the deadline.** Try to experience the whole process of, for example, a paper submission period. You can learn from the feedback and be better prepared for the next try.
