@@ -9,5 +9,7 @@ Dream Lab is now actively recruiting PhD, Master, RA, and undergraduate interns 
 
 <!--more-->
 
+Dream Lab publishes top papers, builds top products, and develops top talents.
+
 We welcome prospective Ph.D., Master, RAs, and interns in 2024, especially who are self-motivated and interested in the intersection or a subset of Human-Computer Interaction, Data Visualization, and Education Technology. Please contact me with your CV via: xiameng9355@gmail.com 
 
