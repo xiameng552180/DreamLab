@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio:  I develop human-centered data-driven interfaces for providing personalized online learning.
+bio: I develop human-centered data-driven interfaces for providing personalized online learning.
 
 interests:
   - Data Visualization

@@ -13,13 +13,14 @@ sections:
       user_groups:
           # - Principal Investigators
           - Professors
-          - PhDs
-          - Masters
+          - Graduate Students
+          # - PhDs
+          # - Masters
           - Undergrads
           # - Administration
-          - Visitors
+          - Visiting Students
           - Alumni
-      sort_by: Params.last_name
+      sort_by: Params.start_date
       sort_ascending: true
     design:
       show_interests: false
