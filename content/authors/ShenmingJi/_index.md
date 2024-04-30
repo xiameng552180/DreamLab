@@ -17,7 +17,7 @@ organizations:
   - name: Taxes A&M University
     url: ''
 
-external_link:
+external_link: https://shenming-ji.github.io/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
