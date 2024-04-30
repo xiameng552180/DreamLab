@@ -9,11 +9,11 @@ sections:
     content:
       title: Contact
       text: |-
-        We welcome prospective Ph.D., Master, RAs, and interns in 2024, especially who are self-motivated and interested in the intersection or a subset of Human-Computer Interaction, Data Visualization, and Education Technology.
-      email: xiameng9355@gmail.com
-      phone: +1 (412) 726-9008
+        We welcome prospective Ph.D., Master, RAs, and interns, especially who are self-motivated and interested in the intersection or a subset of Human-Computer Interaction, Data Visualization, and Education Technology.
+      email: mengxia@tamu.edu
+      # phone: +1 (412) 726-9008
       address:
-        street: L.F. Peterson Building, 435 Nagle St
+        street: Office 339, L.F. Peterson Building, 435 Nagle St
         city: College Station
         region: TX
         postcode: '77843'
