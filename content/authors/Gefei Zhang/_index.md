@@ -17,7 +17,7 @@ organizations:
   - name: Zhejiang University of Technology
     url: ''
 
-external_link:
+external_link: https://gopher943.github.io/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
