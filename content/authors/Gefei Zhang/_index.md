@@ -14,7 +14,7 @@ role: PhD Student (2024 Summer)
 
 # Organizations/Affiliations
 organizations:
-  - name: Taxes A&M University
+  - name: Zhejiang University of Technology
     url: ''
 
 external_link:

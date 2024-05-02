@@ -14,7 +14,7 @@ role: Undergraduate Student (2024 Summer)
 
 # Organizations/Affiliations
 organizations:
-  - name: Taxes A&M University
+  - name: Xi’an Jiaotong-Liverpool University
     url: ''
 
 external_link: https://shenming-ji.github.io/

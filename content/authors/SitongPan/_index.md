@@ -14,7 +14,7 @@ role: Undergraduate Student (2024 Summer)
 
 # Organizations/Affiliations
 organizations:
-  - name: Taxes A&M University
+  - name: Zhejiang University
     url: ''
 
 external_link:
