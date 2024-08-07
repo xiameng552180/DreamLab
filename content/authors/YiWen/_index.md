@@ -28,5 +28,5 @@ user_groups:
   - PhDs
   - Graduate Students
 
-start_date: 072024
+start_date: 202408
 ---

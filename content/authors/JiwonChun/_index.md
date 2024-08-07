@@ -28,5 +28,5 @@ user_groups:
   - Masters
   - Graduate Students
 
-start_date: 012024
+start_date: 202401
 ---

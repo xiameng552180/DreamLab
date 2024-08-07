@@ -27,5 +27,5 @@ highlight_name: false
 user_groups:
   - Visiting Students
 
-start_date: 052024
+start_date: 202405
 ---
