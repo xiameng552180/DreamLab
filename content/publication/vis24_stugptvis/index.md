@@ -1,10 +1,13 @@
 ---
 title: "StuGPTViz: A Visual Analytics Approach to Understand Student-ChatGPT Interactions"
 authors:
-- Robin Schmucker
+- Zixin Chen
+- Jiachen Wang
 - admin
-- Amos Azaria
-- Tom Mitchell
+- Kento Shigyo
+- Dingdong Liu
+- Rong Zhang
+- Huamin Qu
 author_notes:
 date: "2024-01-01T00:00:00Z"
 doi: ""
