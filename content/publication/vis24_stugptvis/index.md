@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.xiameng.org/StuGPTViz%20A%20Visual%20Analytics%20Approach%20to%20Understand%20Student-ChatGPT%20Interactions.pdf
+url_pdf: https://arxiv.org/pdf/2407.12423
 url_code: ''
 url_dataset: ''
 url_poster: ''
