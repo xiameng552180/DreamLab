@@ -17,7 +17,7 @@ organizations:
   - name: Taxes A&M University
     url: ''
 
-external_link: https://scholar.google.com/citations?user=fmDa4U4AAAAJ&hl=en
+external_link: https://flypig23.github.io/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
