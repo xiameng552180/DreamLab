@@ -1,12 +1,16 @@
 ---
-title: "Ruffle&Riley: Insights from Designing and Evaluating a Large Language Model-Based Conversational Tutoring System"
+title: "TutorUp: What If Your Students Were Simulated? Training Tutors to Address Engagement Challenges in Online Learning"
 authors:
+- SitongPan
 - Robin Schmucker
+- Bernardo Garcia Bulle Bueno
+- Salome Aguilar Llanes
+- Fernanda Albo Alarcón
+- HangxiaoZhu
+- AdamTeo
 - admin
-- Amos Azaria
-- Tom Mitchell
 author_notes:
-date: "2024-01-01T00:00:00Z"
+date: "2025-03-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,8 +22,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Artificial Intelligence in Education"
-publication_short: "AIED"
+publication: "ACM Conference on Human Factors in Computing Systems"
+publication_short: "CHI"
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -28,13 +32,13 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 
 tags:
 - Education
-- Intelligent Tutoring Systems
+- LLM
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.xiameng.org/AIED_2024___Conversational_Tutoring__camera_ready_.pdf
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

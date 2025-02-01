@@ -1,12 +1,17 @@
 ---
-title: "Ruffle&Riley: Insights from Designing and Evaluating a Large Language Model-Based Conversational Tutoring System"
+title: "The Jade Gateway to Trust: Exploring How Socio-Cultural Perspectives Shape Trust Within Chinese NFT Communities"
 authors:
-- Robin Schmucker
+- Yi-Fan Cao
+- Reza Hadi Mogavi
 - admin
-- Amos Azaria
-- Tom Mitchell
+- Leo Yu-Ho Lo
+- Xiaoqing Zhang
+- Mei-Jia LOU
+- Lennart E. Nacke
+- Yang Wang
+- Huamin Qu
 author_notes:
-date: "2024-01-01T00:00:00Z"
+date: "2025-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,8 +23,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Artificial Intelligence in Education"
-publication_short: "AIED"
+publication: "ACM Conference on Computer-Supported Cooperative Work and Social Computing"
+publication_short: "CSCW"
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -27,14 +32,13 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Education
-- Intelligent Tutoring Systems
+- NFT
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.xiameng.org/AIED_2024___Conversational_Tutoring__camera_ready_.pdf
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
