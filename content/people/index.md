@@ -18,7 +18,7 @@ sections:
           # - Masters
           - Undergrads
           # - Administration
-          - Visiting Students
+          # - Visiting Students
           - Alumni
       sort_by: Params.start_date
       sort_ascending: true

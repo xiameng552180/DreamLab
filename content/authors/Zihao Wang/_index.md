@@ -1,23 +1,23 @@
 ---
 # Display name
-title: Shenming Ji
+title: Zihao Wang
 
 # Full Name (for SEO)
-first_name: Shenming
-last_name: Ji
+first_name: Zihao
+last_name: Wang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergraduate Student (2024 Summer)
+role: Master Student (2024 Fall)
 
 # Organizations/Affiliations
 organizations:
-  - name: Xi’an Jiaotong-Liverpool University
+  - name: Taxes A&M University
     url: ''
 
-external_link: https://shenming-ji.github.io/
+external_link: https://www.linkedin.com/in/zihao-wang-762890289/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -27,5 +27,5 @@ highlight_name: false
 user_groups:
   - Alumni
 
-start_date: 202406
+start_date: 202409
 ---
