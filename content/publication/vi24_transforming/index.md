@@ -1,13 +1,15 @@
 ---
-title: "Ruffle&Riley: Insights from Designing and Evaluating a Large Language Model-Based Conversational Tutoring System"
+title: "Transforming Cinematography Lighting Education in the Metaverse"
 authors:
-- Robin Schmucker
+- Xian Xu
+- Wai Tong
+- Wei Zheng
 - admin
-- Amos Azaria
-- Tom Mitchell
+- Lik-Hang Lee
+- Huamin Qu
 author_notes:
-date: "2024-01-01T00:00:00Z"
-doi: ""
+date: "2024-12-05T00:00:00Z"
+doi: "10.1016/j.visinf.2024.11.003"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -15,26 +17,26 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["paper-conference"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Artificial Intelligence in Education"
-publication_short: "AIED"
+publication: "Visual Informatics"
+publication_short: "VI"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Lighting education is a foundational component of cinematography education. However, many art schools do not have expensive soundstages for traditional cinematography lessons. Migrating physical setups to virtual experiences is a potential solution driven by metaverse initiatives. Yet there is still a lack of knowledge on the design of a VR system for teaching cinematography. We first analyzed the educational needs for cinematography lighting education by conducting interviews with six cinematography professionals from academia and industry. Accordingly, we presented Art Mirror, a VR soundstage for teachers and students to emulate cinematography lighting in virtual scenarios. We evaluated Art Mirror from the aspects of usability, realism, presence, sense of agency, and collaboration. Sixteen participants were invited to take a cinematography lighting course and assess the design elements of Art Mirror. Our results demonstrate that Art Mirror is usable and useful for cinematography lighting education, which sheds light on the design of VR cinematography education.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Education
-- Intelligent Tutoring Systems
+- Virtual Reality
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.xiameng.org/AIED_2024___Conversational_Tutoring__camera_ready_.pdf
+url_pdf: https://www.xiameng.org/Visual_Informatics_Cinematography_in_the_Metaverse.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

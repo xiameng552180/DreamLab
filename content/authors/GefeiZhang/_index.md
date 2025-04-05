@@ -1,31 +1,31 @@
 ---
 # Display name
-title: Adam Teo
+title: Gefei Zhang
 
 # Full Name (for SEO)
-first_name: Adam
-last_name: Teo
+first_name: Gefei
+last_name: Zhang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergraduate Student (2024 Fall)
+role: PhD Student (2024 Summer)
 
 # Organizations/Affiliations
 organizations:
-  - name: Texas A&M University
+  - name: Zhejiang University of Technology
     url: ''
 
-external_link: https://ysadamt.com
+external_link: https://gopher943.github.io/
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergrads
+  - Graduate Students
 
-start_date: 202409
+start_date: 202405
 ---

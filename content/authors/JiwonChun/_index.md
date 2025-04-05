@@ -20,7 +20,7 @@ organizations:
 external_link: https://jiwonchun.notion.site/Jiwon-Chun-08d6427adf024d6c9a0af8ee1909806f?pvs=4
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
