@@ -10,7 +10,7 @@ last_name: Zhang
 superuser: false
 
 # Role/position
-role: PhD Student (2024 Summer)
+role: PhD Student (2024 Summer - 2025 Summer)
 
 # Organizations/Affiliations
 organizations:
@@ -25,7 +25,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Alumni
 
 start_date: 202405
 ---

@@ -10,7 +10,7 @@ last_name: Mirhosseini
 superuser: false
 
 # Role/position
-role: PhD Student (2025 Spring)
+role: PhD Student (2025 Spring - )
 
 # Organizations/Affiliations
 organizations:

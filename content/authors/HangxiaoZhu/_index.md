@@ -10,7 +10,7 @@ last_name: Zhu
 superuser: false
 
 # Role/position
-role: PhD Student (2024 Fall)
+role: TA Research Student (2024 Fall - 2025 Spring)
 
 # Organizations/Affiliations
 organizations:

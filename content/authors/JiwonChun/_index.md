@@ -10,7 +10,7 @@ last_name: Chun
 superuser: false
 
 # Role/position
-role: Master Student (2024 Spring)
+role: Master Student (2024 Spring - 2025 Summer)
 
 # Organizations/Affiliations
 organizations:
@@ -25,8 +25,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Masters
-  - Graduate Students
+  - Alumni
 
 start_date: 202401
 ---
