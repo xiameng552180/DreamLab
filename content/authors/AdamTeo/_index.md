@@ -10,7 +10,7 @@ last_name: Teo
 superuser: false
 
 # Role/position
-role: Undergraduate Student (2024 Fall)
+role: Undergraduate Student (2024 Fall - )
 
 # Organizations/Affiliations
 organizations:
