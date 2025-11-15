@@ -10,7 +10,7 @@ last_name: Mowry
 superuser: false
 
 # Role/position
-role: TA Research Student (2025 Fall - )
+role: PhD Student (2025 Fall - )
 
 # Organizations/Affiliations
 organizations:
