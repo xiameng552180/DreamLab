@@ -1,33 +1,31 @@
 ---
 # Display name
-title: Fatemeh Mirhosseini
+title: Zezheng Sun
 
 # Full Name (for SEO)
-first_name: Fatemeh
-last_name: Mirhosseini
+first_name: Zezheng
+last_name: Sun
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Student (2025 Spring - 2025 Fall)
+role: Undergraduate Student (2025 Summer)
 
 # Organizations/Affiliations
 organizations:
-  - name: Taxes A&M University
+  - name: University Of Wisconsin - Madison
     url: ''
 
-external_link: https://its-fatemeh-mh.github.io/
+external_link: 
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
-  # - PhDs
-  # - Graduate Students
+  - Undergrads
 
-start_date: 202501
+start_date: 202507
 ---
