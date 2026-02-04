@@ -17,7 +17,7 @@ organizations:
   - name: Texas A&M University
     url: ''
 
-external_link: 
+external_link: https://people.tamu.edu/~y.clairewu/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
