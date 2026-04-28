@@ -10,7 +10,7 @@ last_name: Sun
 superuser: false
 
 # Role/position
-role: Undergraduate Student (2025 Summer)
+role: 2025 Summer
 
 # Organizations/Affiliations
 organizations:

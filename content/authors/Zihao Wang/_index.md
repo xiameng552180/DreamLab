@@ -10,7 +10,7 @@ last_name: Wang
 superuser: false
 
 # Role/position
-role: Master Student (2024 Fall)
+role: 2024 Fall
 
 # Organizations/Affiliations
 organizations:

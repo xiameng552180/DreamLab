@@ -10,7 +10,7 @@ last_name: Nguyen
 superuser: false
 
 # Role/position
-role: Undergraduate Student (2025 Fall - )
+role: 2025 Fall - 2026 Spring
 
 # Organizations/Affiliations
 organizations:
@@ -25,7 +25,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergrads
+  - Alumni
 
 start_date: 202509
 ---

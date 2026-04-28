@@ -10,7 +10,7 @@ last_name: Pan
 superuser: false
 
 # Role/position
-role: Undergraduate Student (2024 Summer)
+role: 2024 Summer
 
 # Organizations/Affiliations
 organizations:

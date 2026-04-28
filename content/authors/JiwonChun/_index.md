@@ -10,7 +10,7 @@ last_name: Chun
 superuser: false
 
 # Role/position
-role: Master Student (2024 Spring - 2025 Summer)
+role: 2024 Spring - 2025 Summer
 
 # Organizations/Affiliations
 organizations:

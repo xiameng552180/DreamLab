@@ -10,7 +10,7 @@ last_name: Teo
 superuser: false
 
 # Role/position
-role: Undergraduate Student (2024 Fall - )
+role: 2024 Fall - 2025 Fall
 
 # Organizations/Affiliations
 organizations:
@@ -25,7 +25,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergrads
+  - Alumni
 
 start_date: 202409
 ---

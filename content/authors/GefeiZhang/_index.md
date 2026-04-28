@@ -10,7 +10,7 @@ last_name: Zhang
 superuser: false
 
 # Role/position
-role: Visiting PhD Student (2024 Summer - 2025 Summer)
+role: 2024 Summer - 2025 Summer
 
 # Organizations/Affiliations
 organizations:

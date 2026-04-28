@@ -1,23 +1,23 @@
 ---
 # Display name
-title: Shenming Ji
+title: Zhe Ding
 
 # Full Name (for SEO)
-first_name: Shenming
-last_name: Ji
+first_name: Zhe
+last_name: Ding
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2024 Summer
+role: PhD Student (2026 Fall - )
 
 # Organizations/Affiliations
 organizations:
-  - name: Xi’an Jiaotong-Liverpool University
+  - name: Taxes A&M University
     url: ''
 
-external_link: https://shenming-ji.github.io/
+external_link: https://abby-ding.github.io/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -25,7 +25,8 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - PhDs
+  - Graduate Students
 
-start_date: 202406
+start_date: 202608
 ---
