@@ -10,7 +10,7 @@ last_name: Wu
 superuser: false
 
 # Role/position
-role: 2026 Spring
+role: Undergraduate (2026 Spring - )
 
 # Organizations/Affiliations
 organizations:
@@ -25,7 +25,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Undergrads
 
 start_date: 202601
 ---

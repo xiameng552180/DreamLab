@@ -10,7 +10,7 @@ last_name: Liu
 superuser: false
 
 # Role/position
-role: PhD Student (2026 Fall - )
+role: PhD Student (Coadvise with Dr. Wai Tong, 2026 Fall - )
 
 # Organizations/Affiliations
 organizations:
